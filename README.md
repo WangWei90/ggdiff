@@ -77,7 +77,7 @@ def tprint(msg1, msg2):
 
 ### 安装
 
-从`release`下载压缩文件，解压到任意文件夹，双击 `ggclick.exe` 即可。
+从`release`下载压缩文件，解压到任意文件夹，双击 `ggdiff.exe` 即可。
 
 应用第一次启动后，“可能”会有一个弹窗提示需要`pysimplegui`的授权码。请您到`pysimplegui`的官网注册一个授权码，并复制粘贴到弹窗中，此后便可以正常使用了。
 
