@@ -41,9 +41,15 @@ def tprint(msg1, msg2):
     print_wrong(f"{time} -- {msg1} -- {msg2} 比较中文")
 ```
 
+第1种diff
+
 ![](./figures/ui-02.jpg)
 
+第2种diff
+
 ![](./figures/ui-03.jpg)
+
+第3种diff
 
 ![](./figures/ui-04.jpg)
 
@@ -59,9 +65,15 @@ def tprint(msg1, msg2):
 苏轼，北宋。夜饮东坡醒复醉，归来仿佛三更，家童鼻息已雷鸣，敲门都不应，倚杖听江声。(下阕)长恨此身非我有，何时忘却营营，夜阑风静縠纹平，小舟从此逝，江海寄余生。
 ```
 
+第1种diff
+
 ![](./figures/ui-05.png)
 
+第2种diff
+
 ![](./figures/ui-06.png)
+
+第3种diff
 
 ![](./figures/ui-07.png)
 
