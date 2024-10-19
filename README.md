@@ -4,7 +4,7 @@
 
 一个简单的diff工具，直接比较2块文字内容，提供更细致的对比
 
-![](./figures/ui-01.jpg)
+![not exist](./figures/ui-01.jpg)
 
 ### 功能
 
@@ -43,15 +43,15 @@ def tprint(msg1, msg2):
 
 第1种diff
 
-![](./figures/ui-02.jpg)
+![not exist](./figures/ui-02.jpg)
 
 第2种diff
 
-![](./figures/ui-03.jpg)
+![not exist](./figures/ui-03.jpg)
 
 第3种diff
 
-![](./figures/ui-04.jpg)
+![not exist](./figures/ui-04.jpg)
 
 比较两段中文内容。
 
@@ -67,15 +67,15 @@ def tprint(msg1, msg2):
 
 第1种diff
 
-![](./figures/ui-05.png)
+![not exist](./figures/ui-05.png)
 
 第2种diff
 
-![](./figures/ui-06.png)
+![not exist](./figures/ui-06.png)
 
 第3种diff
 
-![](./figures/ui-07.png)
+![not exist](./figures/ui-07.png)
 
 #### 支持内容直接比较和基于文件比较
 
@@ -97,6 +97,6 @@ def tprint(msg1, msg2):
 
 ### 赞助
 
-本应用使用了 `pysimplegui` 进行开发，但是我没有购买`pysimplegui`的商业许可证，故您需要自己注册授权码。
+本工具使用了 `pysimplegui` 进行开发，但是我没有购买`pysimplegui`的商业许可证，故您需要自己注册授权码。
 
-如果您感觉本应用对您有帮助，可以考虑赞助 :smile:
+如果您感觉本工具对您有帮助，可以考虑赞助 :smile:
